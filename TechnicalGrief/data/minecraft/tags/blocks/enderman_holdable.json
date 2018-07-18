@@ -4,8 +4,6 @@
   	"minecraft:melon",
 	"minecraft:pumpkin",
 	"minecraft:bedrock",
-	"minecraft:obsidian",
-	"#minecraft:logs",
-	"#minecraft:leaves"
+	"minecraft:obsidian"
   ]
 }
